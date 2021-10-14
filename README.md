@@ -6,9 +6,9 @@ Repositorio creado para un pequeño proyecto de la experiencia educativa de Desa
 Realizado por:  
 - Abner Jeffrey Tapia Cruz
 
-## - Ejecución aplicación:
+### - Ejecución aplicación:
 ![Image Text](https://github.com/DrearyStudent/CalculadoraHipotenusaAndroid/blob/master/Recursos/EjecucionAplicacion.PNG)
-## - Dialogo campos vaciós:  
+### - Dialogo campos vaciós:  
 ![Image Text](https://github.com/DrearyStudent/CalculadoraHipotenusaAndroid/blob/master/Recursos/DialogoCamposVacios.PNG)
-## - Funcionamiento aplicación:  
+### - Funcionamiento aplicación:  
 ![Image Text](https://github.com/DrearyStudent/CalculadoraHipotenusaAndroid/blob/master/Recursos/AplicacionEnFuncionamiento.PNG)
